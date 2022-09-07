@@ -1,4 +1,4 @@
-class countriesService {
+class CountriesService {
   constructor() {
     this.searchInput = '';
   }
@@ -12,4 +12,4 @@ class countriesService {
     });
   }
 }
-export { countriesService };
+export { CountriesService };
